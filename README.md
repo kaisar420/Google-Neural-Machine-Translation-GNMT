@@ -1,3 +1,5 @@
+## Note: The current repository is out-dated, and has not been maintained for a while. It is not a good resource if you want to reproduce GNMT any more. Recently, I plan to work on MT problem again, and our team might re-implement this model in a modern way again. 
+
 # Google-Neural-Machine-Translation-GNMT
 
 It is a tensorflow implementation of [GNMT published by google][1]
